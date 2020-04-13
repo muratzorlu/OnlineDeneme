@@ -10,3 +10,5 @@ Onların sınıf düzeyine atanmış sınavları görüyorlar.
 Sınav seçip cevaplamaya başlıyorlar. Sayfanın sağ tarafında açılan cevap anahtarına işaretleme yapıyorlar.
 
 Sınavı bitiren öğrencinin cevaplarını yonetim panelinden görüyorsunuz.
+
+Daha detaylı bilgi için zorlumurat@hotmail.com adresine eposta atabilirsiniz.
