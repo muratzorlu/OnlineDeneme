@@ -5,7 +5,7 @@ Google Drive üzerine yükleyeceğiniz pdf dosyasındaki soruları yonetim panel
 
 Öğrencilere verilen bir kod ile öğrenciler sisteme giriş yapıyorlar. 
 
-Onarın sınıf düzeyine atanmış sınavları görüyorlar.
+Onların sınıf düzeyine atanmış sınavları görüyorlar.
 
 Sınav seçip cevaplamaya başlıyorlar. Sayfanın sağ tarafında açılan cevap anahtarına işaretleme yapıyorlar.
 
